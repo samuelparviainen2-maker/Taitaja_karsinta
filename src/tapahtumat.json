@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nimi": "Webkehittäjien seminaari",
+    "kategoria": "Seminaari",
+    "paikkakunta": "Kuopio",
+    "osallistujat": 180,
+    "kuva": "kuva1.png",
+    "tarkemmat tiedot": "Seminaari webkehittäjille ja ohjelmistosuunnittelijoille."
+  },
+  {
+    "id": 2,
+    "nimi": "Hackathon 2026",
+    "kategoria": "Kilpailu",
+    "paikkakunta": "Joensuu",
+    "osallistujat": 95,
+    "kuva": "kuva2.png",
+    "tarkemmat tiedot": "24 tunnin ohjelmointikilpailu opiskelijoille ja IT-alan ammattilaisille."
+  },
+  {
+    "id": 3,
+    "nimi": "Ohjelmointikoulutus",
+    "kategoria": "Koulutus",
+    "paikkakunta": "Kuopio",
+    "osallistujat": 40,
+    "kuva": "kuva3.png",
+    "tarkemmat tiedot": "Koulutus JavaScriptin, Reactin ja Node.js:n perusteista."
+  },
+  {
+    "id": 4,
+    "nimi": "Teknologia Expo",
+    "kategoria": "Messut",
+    "paikkakunta": "Helsinki",
+    "osallistujat": 350,
+    "kuva": "kuva4.png",
+    "tarkemmat tiedot": "Teknologia-alan messut, joissa esitellään uusimpia tuotteita ja palveluja."
+  },
+  {
+    "id": 5,
+    "nimi": "Pilvipalvelupäivä",
+    "kategoria": "Seminaari",
+    "paikkakunta": "Oulu",
+    "osallistujat": 120,
+    "kuva": "kuva5.png",
+    "tarkemmat tiedot": "Pilvipalveluihin, tietoturvaan ja tekoälyyn keskittyvä seminaari."
+  },
+  {
+    "id": 6,
+    "nimi": "Junior Developer Day",
+    "kategoria": "Koulutus",
+    "paikkakunta": "Kuopio",
+    "osallistujat": 75,
+    "kuva": "kuva6.png",
+    "tarkemmat tiedot": "Aloitteleville ohjelmistokehittäjille suunnattu koulutuspäivä."
+  }
+]
